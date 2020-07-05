@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Jokempô</string>
+    <string name="frase_titulo">Escolha do app</string>
+    <string name="frase_win_lose">Clique para jogar</string>
+    <string name="escolha_tesoura">Tesoura</string>
+    <string name="escolha_papel">Papel</string>
+    <string name="escolha_pedra">Pedra</string>
+</resources>
